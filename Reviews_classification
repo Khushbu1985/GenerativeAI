@@ -1,0 +1,7 @@
+echo "# GenerativeAI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Khushbu1985/GenerativeAI.git
+git push -u origin main
